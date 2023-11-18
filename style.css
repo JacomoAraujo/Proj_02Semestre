@@ -1,0 +1,11 @@
+body{
+    background-image:url(imagem/preto2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+
+}
+input{
+    box-shadow:0 4px 8px rgb(0,0,0,0.8);
+    
+}
